@@ -117,9 +117,9 @@ Contributions are encouraged — please fork the repository, create a branch, an
 
 * Layan Esmat 
 * Manahel Alahmadi  
-Yasmeen Alrashidi 
-Munifah Aljabri 
-Mawaddah Almowallad 
+* Yasmeen Alrashidi 
+* Munifah Aljabri 
+* Mawaddah Almowallad 
 
 ---
 
